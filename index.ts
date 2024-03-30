@@ -1,6 +1,10 @@
 #! /usr/bin/env node
 
-// shabang
+
+// To use this ATM type this command in command prompt /terminal: npx @waleedhassan123/atm_project
+// ypu will need a pin number to use the ATM which is : 1111
+//Max amount is : 50000
+
 
 import inquirer from "inquirer";
 
